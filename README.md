@@ -111,4 +111,5 @@ Em caso de dúvidas ou problemas, abra uma issue ou entre em contato com o desen
 
 ---
 
-Feito com ❤️ por [Seu Nome]
+Feito com ❤️ por José Fernando
+
